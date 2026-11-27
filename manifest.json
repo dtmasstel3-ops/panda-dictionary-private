@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "han",
+      "version": "31d0f73991712fa3",
+      "sha256": "31d0f73991712fa3995df4dfd2d112bd67fe8c068fccdc30023ece52ad428006",
+      "file": "31d0f73991712fa3995df4dfd2d112bd67fe8c068fccdc30023ece52ad428006.zip",
+      "bytes": 72880,
+      "rawBytes": 163740,
+      "sourceLines": 16557,
+      "license": "Cá nhân — chưa xác minh quyền phân phối",
+      "source": "qt-personal-han.txt"
+    },
+    {
+      "id": "pron",
+      "version": "b9069d79ca5fa31e",
+      "sha256": "b9069d79ca5fa31ef4f82c0c7e2f4eaf4c3ecaa6e4d126d714ff33affec86223",
+      "file": "b9069d79ca5fa31ef4f82c0c7e2f4eaf4c3ecaa6e4d126d714ff33affec86223.zip",
+      "bytes": 567,
+      "rawBytes": 1024,
+      "sourceLines": 27,
+      "license": "Cá nhân — chưa xác minh quyền phân phối",
+      "source": "qt-personal-pron.txt"
+    },
+    {
+      "id": "name",
+      "version": "2ede33df8b948f9f",
+      "sha256": "2ede33df8b948f9fdd5971701a56c8ec65faf352185a6165c977ff31f53357ee",
+      "file": "2ede33df8b948f9fdd5971701a56c8ec65faf352185a6165c977ff31f53357ee.zip",
+      "bytes": 1738439,
+      "rawBytes": 5240238,
+      "sourceLines": 182481,
+      "license": "Cá nhân — chưa xác minh quyền phân phối",
+      "source": "qt-personal-name.txt"
+    },
+    {
+      "id": "numeric",
+      "version": "7e660291db974994",
+      "sha256": "7e660291db974994b5a7cae4f22930e2b9818d92c323c1d208edd2ae0756926c",
+      "file": "7e660291db974994b5a7cae4f22930e2b9818d92c323c1d208edd2ae0756926c.zip",
+      "bytes": 3892,
+      "rawBytes": 16429,
+      "sourceLines": 392,
+      "license": "Cá nhân — chưa xác minh quyền phân phối",
+      "source": "qt-personal-numeric.txt"
+    },
+    {
+      "id": "genre-tienhiep",
+      "version": "a542d68e79e7aece",
+      "sha256": "a542d68e79e7aecedb0410fb24591d078be21a796522be4c299b9d2a96fba41c",
+      "file": "a542d68e79e7aecedb0410fb24591d078be21a796522be4c299b9d2a96fba41c.zip",
+      "bytes": 2566,
+      "rawBytes": 4931,
+      "sourceLines": 166,
+      "license": "Cá nhân — chưa xác minh quyền phân phối",
+      "source": "qt-personal-genre.txt"
+    },
+    {
+      "id": "vp",
+      "version": "59090297faef84fb",
+      "sha256": "59090297faef84fba0063b8a98646dafd553cb980faf24f3805aa31dd55b95e1",
+      "file": "59090297faef84fba0063b8a98646dafd553cb980faf24f3805aa31dd55b95e1.zip",
+      "bytes": 8198228,
+      "rawBytes": 30578994,
+      "sourceLines": 801903,
+      "license": "Cá nhân — chưa xác minh quyền phân phối",
+      "source": "qt-personal-vp.txt"
+    }
+  ]
+}
